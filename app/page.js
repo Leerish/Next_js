@@ -25,7 +25,7 @@ export default async  function Home() {
   return (
     <Wrapper>
     <h4 className="text-2xl font-bold dark:text-white">
-        {`${greeting()}`}    Allan </h4>
+        {`${greeting()}`}    Leerish</h4>
       <div className="flex items-center justify-center py-4 md:py-8 flex-wrap">
         <button
           type="button"
